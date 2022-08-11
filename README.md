@@ -225,7 +225,7 @@ ao utilizar comentário
 
         <li>
           <div class="details">
-            <h3>Massa Doce</h3>
+            <h3>Maça Doce</h3>
             <p class="description">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. 
             </p>
